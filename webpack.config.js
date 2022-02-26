@@ -11,7 +11,6 @@ module.exports = {
     filename: "bundle.js",
     publicPath: "/",
   },
-  clean: true,
   mode: "production",
   performance: {
     hints: false,
